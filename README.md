@@ -8,7 +8,7 @@ Angular version numbers have three parts: major.minor.patch. For example, versio
 The version number is incremented based on the level of change included in the release.
 
 # Seguridad para Angular
-# Preventing cross-site scripting (XSS)
+<h2> Preventing cross-site scripting (XSS) </h2>
 Cross-site scripting (XSS) enables attackers to inject malicious code into web pages. Such code can then, for example, steal user and login data, or perform actions that impersonate the user. This is one of the most common attacks on the web.
 
 To block XSS attacks, you must prevent malicious code from entering the Document Object Model (DOM). For example, if attackers can trick you into inserting a <script> tag in the DOM, they can run arbitrary code on your website. The attack isn't limited to <script> tags —many elements and properties in the DOM allow code execution, for example, <img alt="" onerror="..."> and <a href="javascript:...">. If attacker-controlled data enters the DOM, expect security vulnerabilities.
