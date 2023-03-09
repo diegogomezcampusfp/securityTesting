@@ -1,7 +1,13 @@
-# Seguridad para Angular
-
 Toda la info la saco de la página oficial: https://angular.io/guide/security
 
+# Angular versioning
+Angular version numbers indicate the level of changes that are introduced by the release. This use of semantic versioning helps you understand the potential impact of updating to a new version.
+
+Angular version numbers have three parts: major.minor.patch. For example, version 7.2.11 indicates major version 7, minor version 2, and patch level 11.
+
+The version number is incremented based on the level of change included in the release.
+
+# Seguridad para Angular
 # Preventing cross-site scripting (XSS)
 Cross-site scripting (XSS) enables attackers to inject malicious code into web pages. Such code can then, for example, steal user and login data, or perform actions that impersonate the user. This is one of the most common attacks on the web.
 
