@@ -1,4 +1,6 @@
-Toda la info la saco de la página oficial: https://angular.io/guide/security
+# VERSIÓN Y SEGURIDAD
+
+<h2> Toda la info la saco de la página oficial: https://angular.io/guide/security </h2>
 
 # Angular versioning
 Angular version numbers indicate the level of changes that are introduced by the release. This use of semantic versioning helps you understand the potential impact of updating to a new version.
